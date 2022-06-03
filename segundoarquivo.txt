@@ -1,5 +1,11 @@
 primeira linha
 
+<<<<<<< HEAD
 Nova Linha Joao
 
 Nova Linha Vacilão j
+=======
+FULANO
+
+Sicrano
+>>>>>>> cbf5aab3cd6c6a165d803f263b71d0ca41cdd642
